@@ -11,6 +11,8 @@ including nested folders, and stores the corresponding remote repository URLs.
 I organize all my github repositories in one big folder on my machine. They are organized into various subdirectories by personal projects,
 coursework, etc. I wanted a way to preserve that structure in a way that it can be easily cloned on a new machine.
 
+
+Here is my ideation process just for fun:
 ### First idea:
 - Make the outermost folder a github repository itself.
 - Use a `.gitignore` to ignore all directories so that nested git repositories aren't added.
@@ -20,7 +22,7 @@ coursework, etc. I wanted a way to preserve that structure in a way that it can 
     - Have to add each `.gitkeep` and `gitInfo.txt` into the `.gitignore` for each project's git repository.
 
 ### Second idea:
-Basically the first idea but create a new folder which contains nested folders to preserve the file structure. This folder can be made
+Basically the first idea but create a new folder instead which contains nested folders to preserve the file structure. This folder can be made
 into a github repository since it won't actually have any git repositories so we don't need to worry about `.gitignores` for each project
 in it.
 
