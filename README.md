@@ -22,9 +22,7 @@ Here is my ideation process just for fun:
     - Have to add each `.gitkeep` and `gitInfo.txt` into the `.gitignore` for each project's git repository.
 
 ### Second idea:
-Basically the first idea but create a new folder instead which contains nested folders to preserve the file structure. This folder can be made
-into a github repository since it won't actually have any git repositories so we don't need to worry about `.gitignores` for each project
-in it.
+Basically the first idea but create a new folder instead which will be a copy of the nested file structure of the big folder. This folder can be made into a github repository since it won't actually have any git repositories so we don't need to worry about `.gitignores` for each project in it.
 
 ### Final idea:
 The second idea led to the solution of just creating a json file with all this data. Don't know why I didn't think of this in the first place.
