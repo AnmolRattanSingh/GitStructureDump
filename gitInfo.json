@@ -1,0 +1,79 @@
+{
+    "github": {
+        "research": {
+            "MatchingBenchmarking": {
+                "gitUrl": "git@github.com:occamLab/MatchingBenchmarking.git"
+            },
+            "AlignmentBenchmarking": {
+                "gitUrl": "git@github.com:occamLab/AlignmentBenchmarking.git"
+            },
+            "slambook2": {
+                "gitUrl": "git@github.com:gaoxiang12/slambook2.git"
+            }
+        },
+        "personal": {
+            "fltr": {
+                "pigeon": {
+                    "gitUrl": "git@github.com:AnmolRattanSingh/pigeon.git"
+                },
+                "open_cv": {}
+            },
+            "GoogleCal_event_CLI": {
+                "gitUrl": "git@github.com:AnmolRattanSingh/GoogleCal_event_CLI.git"
+            },
+            "NoorCoder": {
+                "gitUrl": "git@github.com:AnmolRattanSingh/NoorCoder.git"
+            },
+            "spotify-led-control": {
+                "gitUrl": "git@github.com:AnmolRattanSingh/spotify-led-control.git"
+            },
+            "react": {}
+        },
+        "sebelaapp": {
+            "gitUrl": "git@github.com:sebeladev/sebelaapp.git"
+        },
+        "anmolsandhuresume": {
+            "gitUrl": "git@github.com:AnmolRattanSingh/anmolsandhuresume.git"
+        },
+        "courses": {
+            "softsys-2023-01": {
+                "gitUrl": "git@github.com:AnmolRattanSingh/softsys-2023-01.git"
+            },
+            "data-science-S2023": {
+                "gitUrl": "git@github.com:AnmolRattanSingh/data-science-S2023.git"
+            },
+            "hole-in-the-camera": {
+                "gitUrl": "git@github.com:olincollege/hole-in-the-camera.git"
+            },
+            "C-web-server": {
+                "gitUrl": "git@github.com:olincollege/C-web-server.git"
+            },
+            "PIE": {
+                "pie-mini-projects": {
+                    "gitUrl": "git@github.com:iamtheyammer/pie-mini-projects.git"
+                },
+                "pie-whack-a-mole": {
+                    "gitUrl": "git@github.com:iamtheyammer/pie-whack-a-mole.git"
+                }
+            },
+            "Huffman": {
+                "gitUrl": "git@github.com:VedaantKuchhal/Huffman.git"
+            },
+            "clipboard-transformer": {
+                "gitUrl": "git@github.com:olincollege/clipboard-transformer.git"
+            },
+            "Spring2023AdvancedAlgorithms": {
+                "gitUrl": "git@github.com:AnmolRattanSingh/Spring2023AdvancedAlgorithms.git"
+            },
+            "sudoku-solver": {
+                "gitUrl": "git@github.com:AnmolRattanSingh/sudoku-solver.git"
+            }
+        },
+        "portfolio": {
+            "gitUrl": "git@github.com:AnmolRattanSingh/portfolio.git"
+        },
+        "ck-dashboard": {
+            "gitUrl": "git@github.com:AnmolRattanSingh/ck-dashboard.git"
+        }
+    }
+}
